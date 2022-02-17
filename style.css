@@ -112,7 +112,7 @@ p{
 /* Slider section csss */
 
 .slider .container-fluid{
-    width: 1480px !important;
+    max-width: 1480px !important;
 }
 
 .slider{
